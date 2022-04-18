@@ -16,4 +16,4 @@ members:
 
 fetch: this
 new: branch
-signed: yse
+signed: no
